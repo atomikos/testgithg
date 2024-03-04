@@ -1,5 +1,3 @@
 initial hg content
 edited in hg
-concurrent edit in checkout 1
-edited in hg checkout 2
 
